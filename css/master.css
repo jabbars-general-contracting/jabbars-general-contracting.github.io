@@ -1,0 +1,22 @@
+/*
+  Theme Colors:
+
+  Main Color: #8CC63F
+  Accent Color: #435464
+
+*/
+
+#intro {
+  position: relative;
+}
+
+#intro::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: linear-gradient(to top left, rgba(0, 0, 0, 0.5) 50%, transparent);
+}
