@@ -1,0 +1,95 @@
+/*
+  Theme Colors:
+
+  Theme Green Color: #8CC63F
+  Theme Blue Color: #435464
+
+*/
+
+.logo {
+  width: 80px;
+  transform: translateY(-5px);
+  margin-right: 10px;
+}
+
+.contact h2 {
+  padding-bottom: 20px;
+}
+
+.contact-form button {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.contact-form .required {
+  color: #ff4b20;
+}
+
+.contact-form button:active {
+  color: white !important;
+}
+
+#intro {
+  position: relative;
+}
+
+#intro::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: linear-gradient(to top left, rgba(0, 0, 0, 0.5) 50%, transparent);
+}
+
+section {
+  font-size: 16px;
+}
+
+.btn-lg {
+  border-radius: 2px;
+}
+
+#contact {
+  background-color: #435464;
+}
+
+input.form-control, textarea.form-control {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-top-width: 0;
+}
+
+input.form-control:focus, textarea.form-control:focus {
+  border-bottom-color: #8CC63F;
+}
+
+textarea.form-control {
+  height: 100px;
+}
+
+.btn[type=submit] {
+  height: 50px;
+  font-size: 20px;
+  background-color: #8CC63F;
+  color: #435464;
+  outline: none;
+  border: none;
+  border-radius: 0;
+}
+
+.btn[type=submit]:hover {
+  opacity: 0.8;
+}
+
+.btn[type=submit]:active {
+  opacity: 0.6;
+}
+
+.contact {
+  background: none;
+}

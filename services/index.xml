@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Jabbar&#39;s General Contracting</title>
+    <link>https://jgc.jabbar-web.com/services/</link>
+    <description>Recent content in Services on Jabbar&#39;s General Contracting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://jgc.jabbar-web.com/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Repairs</title>
+      <link>https://jgc.jabbar-web.com/services/repairs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jgc.jabbar-web.com/services/repairs/</guid>
+      <description>&lt;p&gt;We can repair any job &lt;em&gt;fast&lt;/em&gt; and make sure that your problems don&amp;rsquo;t become more costly.
+Jabbar&amp;rsquo;s General Contracting personally stands by any repair made and guarantees
+that it will be fixed right!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Renovations</title>
+      <link>https://jgc.jabbar-web.com/services/renovations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jgc.jabbar-web.com/services/renovations/</guid>
+      <description>&lt;p&gt;Every home needs updating after a while. Fortunately, Jabbar&amp;rsquo;s General Contracting has done
+hundreds of renovation projects. Everything from bathrooms and kitchens to
+entire homes, nothing is outside of the scope of what we can do!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>https://jgc.jabbar-web.com/services/quality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jgc.jabbar-web.com/services/quality/</guid>
+      <description>&lt;p&gt;Jabbar&amp;rsquo;s General Contracting only hires certified and state licensed electricians,
+plumbers, HVAC and any other trades where licensing is required.
+You can trust the quality of our services since any work performed at the job site
+is done by experienced subcontractors only.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
